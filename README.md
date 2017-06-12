@@ -127,8 +127,14 @@ still be compilable with cmake and make.
 * cd build
 * cmake ..
 * make
+* ./ExtendedKF ../data/obj_pose-laser-radar-synthetic-input.txt output0.txt > input0.log
 * ./ExtendedKF ../data/sample-data-1.txt output1.txt > input1.log
-* ./ExtendedKF ../data/sample-data-1.txt output1.txt > input2.log
+* ./ExtendedKF ../data/sample-data-2.txt output2.txt > input2.log
+
+### Output 0
+
+* Accuracy - RMSE: [0.0972256, 0.0853761, 0.450855, 0.439588]
+* Threshold: RMSE <= [.11, .11, 0.52, .52]
 
 ### Output 1
 
