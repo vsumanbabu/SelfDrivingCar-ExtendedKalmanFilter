@@ -137,5 +137,5 @@ still be compilable with cmake and make.
 
 ### Output 2
 
-* RMSE = [0.194559 0.189894 0.518945 0.507547]
-* Threshold: RMSE <= [0.20, 0.20, 0.55, 0.55]
+* Accuracy - RMSE: [0.18566, 0.190271, 0.474522, 0.811142]
+* Threshold: RMSE <= [0.20, 0.20, .50, .85]

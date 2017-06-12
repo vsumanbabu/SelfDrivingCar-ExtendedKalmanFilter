@@ -12,11 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9ca6d75-b6ba-4bb4-90a7-d2257771cbaa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buildRun.sh" afterPath="$PROJECT_DIR$/buildRun.sh" />
     </list>
     <ignored path="SelfDrivingCar-ExtendedKalmanFilter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,8 +66,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2100">
-                <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+              <first_editor relative-caret-position="248">
+                <caret line="140" column="43" selection-start-line="140" selection-start-column="43" selection-end-line="140" selection-end-column="43" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -469,12 +465,12 @@
       <workItem from="1496975309742" duration="34000" />
       <workItem from="1496975357295" duration="1073000" />
       <workItem from="1497185466627" duration="3374000" />
-      <workItem from="1497228018838" duration="631000" />
+      <workItem from="1497228018838" duration="925000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5944000" />
+    <option name="totallyTimeSpent" value="6238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="1260" height="697" extended-state="0" />
@@ -827,8 +823,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2100">
-            <caret line="140" column="21" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+          <first_editor relative-caret-position="248">
+            <caret line="140" column="43" selection-start-line="140" selection-start-column="43" selection-end-line="140" selection-end-column="43" />
             <folding />
           </first_editor>
           <second_editor />
