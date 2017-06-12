@@ -118,3 +118,24 @@ and how to install it.
 
 Regardless of the IDE used, every submitted project must
 still be compilable with cmake and make.
+
+# Results
+
+### Actual Build
+
+* mkdir build
+* cd build
+* cmake ..
+* make
+* ./ExtendedKF ../data/sample-data-1.txt output1.txt > input1.log
+* ./ExtendedKF ../data/sample-data-1.txt output1.txt > input2.log
+
+### Output 1
+
+* Accuracy - RMSE: [0.0651648, 0.0605379, 0.533212, 0.544193]
+* Threshold: RMSE <= [0.08, 0.08, 0.60, 0.60]
+
+### Output 2
+
+* RMSE = [0.194559 0.189894 0.518945 0.507547]
+* Threshold: RMSE <= [0.20, 0.20, 0.55, 0.55]

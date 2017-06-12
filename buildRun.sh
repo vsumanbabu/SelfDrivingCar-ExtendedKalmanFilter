@@ -3,4 +3,5 @@ mkdir build
 cd build
 cmake ..
 make
-./ExtendedKF ../data/obj_pose-laser-radar-synthetic-input.txt output.txt
+./ExtendedKF ../data/sample-data-1.txt output1.txt > input1.log
+./ExtendedKF ../data/sample-data-1.txt output1.txt > input2.log
